@@ -1,0 +1,22 @@
+.button {
+    background-color: rgb(55, 55, 191);
+    width: 50px;
+    height: 50px;
+    border: none;
+    border-right: 1px solid white;
+    cursor: pointer;
+}
+
+.burgerSpan {
+    border: none;
+    background-color: white;
+    color: white;
+    height: 2px;
+    width: 20px;
+    margin: 5px auto;
+}
+
+.closeSpan{
+    color:white;
+    font-size: 25px;
+}

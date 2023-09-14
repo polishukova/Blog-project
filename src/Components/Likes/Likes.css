@@ -1,0 +1,19 @@
+.divLikes{
+    padding-top: 20px;
+    display: flex;
+    gap: 20px;
+}
+
+.buttonLikes{
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+svg:hover {
+    fill:rgb(55, 55, 191);
+}
+
+span{
+    padding-left: 7px;
+}

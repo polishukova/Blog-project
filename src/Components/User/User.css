@@ -1,0 +1,29 @@
+.user {
+    display: flex;
+    width: 200px;
+    height: 50px;
+    border-left: 1px solid white;
+    color: white;
+    background-color: rgb(55, 55, 191);
+}
+
+.userInitials {
+    width: 35px;
+    height: 35px;
+    background-color: #6672c1;
+    margin: auto 10px;
+    text-align: center;
+    padding-top: 7px;
+}
+
+.userName {
+    margin: auto 0;
+    font-size: 15px;
+}
+
+.userNoAuth {
+    width: 50px;
+    height: 50px;
+    border-left: 1px solid white;
+    margin: 0 auto;
+}

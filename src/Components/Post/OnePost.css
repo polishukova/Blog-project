@@ -1,0 +1,20 @@
+.onePostMainDiv {
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    border: none;
+}
+
+.onePostImgDiv {
+    width: 500px;
+    height: 300px;
+}
+
+.onePostImgDiv  img {
+    width: 100%;
+    height: 100%;
+}
+
+.lightText{
+    color: rgb(236, 236, 236);
+}

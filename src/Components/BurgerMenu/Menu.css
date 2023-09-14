@@ -1,0 +1,40 @@
+.menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 200px;
+    height: 500px;
+    background: white;
+    position: fixed;
+    z-index: 1;
+    top: 50px;
+    left: -1px;
+    border-top: 1px solid rgb(238, 236, 236);
+}
+
+.linkButton {
+    display: flex;
+    color: black;
+    text-decoration: none;
+    border-bottom: 1px solid rgb(238, 236, 236);
+    border-top: 1px solid rgb(238, 236, 236);
+    padding: 20px 50px;
+}
+
+.linkButtonDark {
+    display: flex;
+    color: black;
+    text-decoration: none;
+    border-bottom: 1px solid rgb(238, 236, 236);
+    border-top: 1px solid rgb(238, 236, 236);
+    padding: 20px 50px;
+    background-color:rgb(218, 214, 214);
+}
+
+.linkButton:hover {
+    color: rgb(55, 55, 191);
+}
+
+.linkButtonDark:hover {
+    color: rgb(55, 55, 191);
+}
